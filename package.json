@@ -1,9 +1,8 @@
 {
   "name": "laas-simpcli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple CLI",
   "main": "./bin/index.js",
-  "scripts": {},
   "keywords": [
     "cli"
   ],
@@ -15,8 +14,5 @@
     "url": "https://github.com/lukas-laas/node-cli.git"
   },
   "author": "Lukas Låås",
-  "license": "ISC",
-  "dependencies": {
-    "yargs": "^17.7.2"
-  }
+  "license": "ISC"
 }
