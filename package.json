@@ -1,5 +1,5 @@
 {
-  "name": "simpcli",
+  "name": "laas-simpcli",
   "version": "1.0.0",
   "description": "Simple CLI",
   "main": "./bin/index.js",
