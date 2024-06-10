@@ -1,2 +1,3 @@
 #! /usr/bin/env node
-console.log("Hello World!");
+const args = process.argv;
+console.log(`Hello ${args[2] ? args[2] : "world"}!`);
